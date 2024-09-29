@@ -1,6 +1,6 @@
 # Lab 05 Assignment
 This folder includes the answers of the assignment of the PF Lab, **Lab 05**.
-## Details 
+## Details:-
 This folder contains the following answers of the questions given in Lab 05 assignment:
 
 - **Section 1:** Answers of the Question #1 and #2.
