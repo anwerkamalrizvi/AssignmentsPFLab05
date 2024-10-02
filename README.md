@@ -1,7 +1,6 @@
-> **Name: Syed Anwer
->  <br>Roll no: 24K-0033
->  <br>Section: BAI-1A** 
-<br>
+**Name: Syed Anwer
+<br>Roll no: 24K-0033
+<br>Section: BAI-1A** 
 # Lab 05 Assignment
 <br>This folder includes the answers of the assignment of the PF Lab, **Lab 05**.
 ## Details:-
